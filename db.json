@@ -1,0 +1,33 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Aparador de Barba Elétrico",
+      "descrição": "O melhor aparador de barba do mercado, bateria recarregavel, dura até 8 horas, à prova d'agua.",
+      "preço": 250.40,
+      "estoque": true,
+      "categoria": "Higiene Pessoal",
+      "Imagens": "https://m.media-amazon.com/images/I/9121IMEcnWL._AC_UF1000,1000_QL80_.jpg" "https://images-americanas.b2w.io/produtos/4821942441/imagens/maquina-de-cabelo-aparador-de-pelos-barba-super-premium/4821942441_1_large.jpg" "https://philips.vtexassets.com/arquivos/ids/175048-800-450?v=637777668053570000&width=800&height=450&aspect=true"
+
+    },
+    {
+      "id": 2,
+      "nome": "Capinha MagSage Iphone 14",
+      "descrição": "Utilize-a para carregar seu Iphone por indução",
+      "preço": 575.00,
+      "estoque": true,
+      "categoria": "Utilitários",
+      "Imagens": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPU63?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1678830752232" "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPU63?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1678830752232" "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPU63_AV3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1678830752387"
+    },
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Higiente Pessoal"
+    },
+    {
+      "id": 2,
+      "nome": "Utilitários"
+    }
+  ]
+}
